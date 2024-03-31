@@ -5,5 +5,5 @@ Resources are coming soon
 
 	- (todo) job graph, SoC and job prestige score mapping
 
-More related resources can be found at: https://hineni-data.com
+More related resources can be found at: http://hineni-data.com
 

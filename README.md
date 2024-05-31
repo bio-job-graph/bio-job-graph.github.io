@@ -3,7 +3,7 @@ Project website for the paper "The Evolution of Occupational Identity in Twitter
 
 - Job Graph: ```./data/job_graph.json``` [[link]](https://github.com/bio-job-graph/bio-job-graph.github.io/blob/main/data/job_graph.json)
 - Runbook :  ```./src/job-graph-demo.ipynb``` [[link]](https://github.com/bio-job-graph/bio-job-graph.github.io/blob/main/src/job-graph-demo.ipynb)
-
+- Job Prestige Score: [[downloadable link]](https://gss.norc.org/Documents/other/PRESTG10SEI10_supplement.xls) from norc.org
 
 
 Explore how individuals described themselves online: http://hineni-data.com
